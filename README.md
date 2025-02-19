@@ -34,10 +34,5 @@ This is a 3D game built using OpenGL, featuring real-time rendering, dynamic lig
 - GLEW
 - GLM (for mathematics)
 
-## Future Improvements
-- Implement more complex physics
-- Improve texture quality and effects
 
-## Author
-Created by EdwardAdelin.
 
